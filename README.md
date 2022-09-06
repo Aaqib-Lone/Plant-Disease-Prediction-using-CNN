@@ -11,6 +11,8 @@ This is the one of the reasons that disease detection in plants plays an importa
 
 Image based detection of plant diseases is an essential research topic as it may prove benefits in monitoring large fields of crops, and thus detect the symptoms of diseases as soon as they appear on plant leaves.
 
+You can test this model on - [Google Collab](https://colab.research.google.com/) or if your PC is having GPU then you can simply test it on Jupyter Notebook
+
 
 ## Screenshots
 
