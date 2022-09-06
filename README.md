@@ -36,7 +36,7 @@ Install Python
 Clone the project
 
 ```bash
-  git clone https://github.com/Aaqib-Lone/Plant-Disease-Detection.git
+  git clone https://github.com/Aaqib-Lone/Plant-Disease-Detection-using-CNN.git
 ```
 
 Go to the project directory
